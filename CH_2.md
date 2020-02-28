@@ -1,6 +1,6 @@
 # Stress-strain program
 
-<center><img width = 500px height= 375px src = "/assets/Ch_2_figure_1.png"></center>
+<div align =center><img width = 500px height= 375px src = "/assets/Ch_2_figure_1.png"></div>
 
 ## Elastic behavior
 
