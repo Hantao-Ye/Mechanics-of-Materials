@@ -18,7 +18,7 @@
 
 the stress component that act in the plane of the sectioned area
 
-<div align = center><img src = "/assets/Ch_3_figure_1.png"></div>
+<div align = center><img src = "./assets/Ch_3_figure_1.png"></div>
 
 ### Average Bearing Stress
 
@@ -38,14 +38,14 @@ Average Shear Stress at Section
 
 <div align = center>
 <img src ="https://latex.codecogs.com/svg.latex?V%20%3DF">
-<img src="/assets/Ch_3_figure_2.png">
+<img src="./assets/Ch_3_figure_2.png">
 </div>
 
 #### Double Shear
 
 <div align = center>
 <img src = "https://latex.codecogs.com/svg.latex?V%20%3D%5Cfrac%7BF%7D%7B2%7D">
-<img src = "/assets/Ch_3_figure_3.png">
+<img src = "./assets/Ch_3_figure_3.png">
 </div>
 
 - Positive strain is when the angle between two positive faces is reduced
@@ -64,7 +64,7 @@ When designing a structural member or mechanical element, the design interest is
 - factor of safety (F.S.)
   <div align = center><img src = https://latex.codecogs.com/svg.latex?%5Cfn_cm%20n%20%3D%20%5Cfrac%7BActual%5C%3BStrength%7D%7BRequired%5C%3BStrength%7D></div>
 - allowable strength
-  <div align = center><img height = 150 src ="/assets/Ch_3_figure_4.png"></div>
+  <div align = center><img height = 150 src ="./assets/Ch_3_figure_4.png"></div>
 
 ## Design for Axial Loads and Direct Shear
 
