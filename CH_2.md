@@ -1,15 +1,17 @@
-# Stress-strain program
+# CH_2
+
+## Stress-strain program
 
 <div align = center><img width = 500px height= 375px src = "./assets/Ch_2_figure_1.png"></div>
 
-## Elastic behavior
+### Elastic behavior
 
 - A straight line
 - Stress is proportional to strain
 - Upper stress limit $\sigma_{pl}$
 - If load is removed upon reaching the limit, specimen will return to its original shape
 
-## Yielding
+### Yielding
 
 - Material deforms permanently (plastic deformation)
 - Yield strength $\sigma_Y$
@@ -17,13 +19,13 @@
 - Materials referred to as being perfectly plastic
 - The _torsional force_ cause **the slip line**
 
-## Strain hardening
+### Strain hardening
 
 - Ultimate stress $\sigma_u$
 - While specimen is elongated, its x-sectional area will decrease
 - Decrease in area is fairly uniform over entire gauge length
 
-## Necking
+### Necking
 
 - At ultimate stress, x-sectional area begins to decrease in a localized region
 - Specimen finally breaks at fracture stress $\sigma_f$

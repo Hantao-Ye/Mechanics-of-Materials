@@ -1,5 +1,7 @@
 # CH_3
 
+[TOC]
+
 ## Hooke's Law
 
 $$
@@ -83,7 +85,7 @@ When designing a structural member or mechanical element, the design interest is
 - factor of safety (F.S.)
 
 $$
-n=\frac{Actual\;Strength}{Required\;Strength}
+n=\frac{\text{Actual Strength}}{\text{Required Strength}}
 $$
 
 - allowable strength
