@@ -26,7 +26,7 @@ the stress component that act in the plane of the sectioned area
 
 <div align = center><img src = "./assets/Ch_3_figure_1.png"></div>
 
-### 2.4 Average Bearing Stress
+### Average Bearing Stress
 
 $$
 \sigma_b=\frac{F_b}{A_b}
@@ -78,7 +78,7 @@ $$
 
 - $G$: shear modulus of elasticity
 
-## 2.5 Allowable Stresses and Allowance Loads
+## 2.4 Allowable Stresses and Allowance Loads
 
 When designing a structural member or mechanical element, the design interest is **strength**, that is _the capacity of the object to support or transmit loads_
 
@@ -92,7 +92,7 @@ $$
   
   <div align = center><img height = 150 src ="./assets/Ch_3_figure_4.png"></div>
 
-## 2.6 Design for Axial Loads and Direct Shear
+## 2.5 Design for Axial Loads and Direct Shear
 
 - determine the area of section subjected to a normal force
 
@@ -106,7 +106,7 @@ $$
 A=\frac{V}{\tau_{allow}}
 $$
 
-## 2.7 Changes in Lengths of An Axially Loaded Members
+## 2.6 Changes in Lengths of An Axially Loaded Members
 
 $$
 P=k\delta\qquad\delta=fP\\[2ex]
@@ -159,7 +159,7 @@ $$
 \delta=\sum{\frac{L}{EA}P}
 $$
 
-## 2.8 Statically Indeterminate Structures
+## 2.7 Statically Indeterminate Structures
 
 if the bar is **fixed at both ends**, then the unknown axial reactions occur, and the bar is statically indeterminate.
 
@@ -171,7 +171,7 @@ $$
 \Rightarrow F_A=P(\frac{L_CB}{L})\qquad F_B=P(\frac{L_AC}{L})
 $$
 
-## 2.9 Thermal Stress
+## 2.8 Thermal Stress
 
 expansion or contraction of material is linearly related to temperature increase or decrease that occurs
 
