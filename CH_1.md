@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Stress-strain program
+## 1. Stress-strain program
 
 <div align = center><img width = 500px height= 375px src = "./assets/Ch_2_figure_1.png"></div>
 
