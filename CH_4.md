@@ -52,3 +52,25 @@ $$
 $$
 \delta=\sum{\frac{L}{EA}P}
 $$
+
+## Statically Indeterminate Structures
+
+if the bar is **fixed at both ends**, then the unknown axial reactions occur, and the bar is statically indeterminate.
+
+$$
+\begin{split}
+\delta_{A/B}=0\\[2ex]
+\frac{F_AL_{AC}}{AE}-\frac{F_BL_{CB}}{AE}=0\\[2ex]
+\end{split}\\[6ex]
+\Rightarrow F_A=P(\frac{L_CB}{L})\qquad F_B=P(\frac{L_AC}{L})
+$$
+
+## Thermal Stress
+
+expansion or contraction of material is linearly related to temperature increase or decrease that occurs
+
+$$
+\varepsilon_T=\alpha\Delta T\qquad \delta_T =\alpha \Delta TL
+$$
+
+$\alpha$: liner coefficient of thermal expansion
