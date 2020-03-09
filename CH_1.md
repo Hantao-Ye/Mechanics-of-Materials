@@ -4,7 +4,7 @@
 
 ## 1. Stress-strain program
 
-<div align = center><img width = 500px height= 375px src = "./assets/Ch_2_figure_1.png"></div>
+<div align = center><img width = 500px height= 375px src = "./assets/Ch_1_figure_1.png"></div>
 
 ### Elastic behavior
 

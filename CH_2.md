@@ -24,7 +24,7 @@ $$
 
 the stress component that act in the plane of the sectioned area
 
-<div align = center><img src = "./assets/Ch_3_figure_1.png"></div>
+<div align = center><img src = "./assets/Ch_2_figure_1.png"></div>
 
 ### Average Bearing Stress
 
@@ -51,7 +51,7 @@ V=F
 $$
 
 <div align = center>
-<img src="./assets/Ch_3_figure_2.png">
+<img src="./assets/Ch_2_figure_2.png">
 </div>
 
 #### Double Shear
@@ -61,7 +61,7 @@ V=\frac{F}{2}
 $$
 
 <div align = center>
-<img src = "./assets/Ch_3_figure_3.png">
+<img src = "./assets/Ch_2_figure_3.png">
 </div>
 
 - Positive strain is when the angle between two positive faces is reduced
