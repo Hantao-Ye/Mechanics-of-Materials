@@ -67,7 +67,7 @@ $$
 
 <div align = center><img src = "./assets/Ch_3_figure_5.png"></div>
 
-## Circular Bars of Linearly Elastic Materials
+## 3.3 Circular Bars of Linearly Elastic Materials
 
 **the shear stresses acting on a cross-sectional plane are accompanied by shear stresses of the same magnitude acting on longitudinal planes.**
 
