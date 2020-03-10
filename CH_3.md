@@ -95,7 +95,20 @@ is the **polar moment of inertia** of the circular cross section
 
 The shear stress at distance ρ from the center of the bar is
 $$
-\tau_{max}=\frac{Tr}{I_P}\tag{torsion formula}
+\tau_{max}=\frac{Tr}{I_P}\qquad\tau=\frac{T\rho}{I_P}\tag{torsion formula}
+$$
+
+#### Solid Shaft
+
+$$
+\mathrm{d}A=2\pi\rho\mathrm{d}\rho\\[2ex]
+I_P=\frac{\pi}{32}d^4
+$$
+
+#### Tubular Shaft
+
+$$
+I_P=\frac{\pi}{32}(d_0^4-d_i^4)
 $$
 
 ### Angle of Twist
@@ -110,13 +123,13 @@ using the torsion formula
 
 $$
 G\rho\theta=\frac{\rho}{r}\frac{Tr}{I_P}\\[2ex]
-\Rightarrow\theta=\frac{T}{GI_P}
+\Rightarrow\theta=\sum{\frac{T}{GI_P}}=\frac{\mathrm{d}\phi}{\mathrm{d}x}
 $$
 
 for a bar in **pure torsion**, the total angle of the twist $\phi$, equal to the rate of twist time the length of the bar
 
 $$
-\phi = \frac{TL}{GI_P}
+\phi = \frac{TL}{GI_P}=\int_0^L{\frac{T(x)\mathrm{d}x}{GI_P(x)}}
 $$
 
 #### Torsional Stiffness and Torsional Flexibility
