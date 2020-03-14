@@ -31,4 +31,5 @@ $$
 
 <div align = center><img src= "./assets/Ch_4_figure_5.png"></div>
 
-<div align = center><img src = "./assets/Ch_4_figure_6.png"></div>
+<div align = center><img height = 300 src = "./assets/Ch_4_figure_6.png"></div>
+
