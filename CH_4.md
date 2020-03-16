@@ -33,3 +33,20 @@ $$
 
 <div align = center><img height = 300 src = "./assets/Ch_4_figure_6.png"></div>
 
+## 4.3 Relationship between Loads, Shear forces, and Bending Moments
+
+### Regions of Distributed Load
+
+$$
+\begin{aligned}
+    \frac{\mathrm{d}V}{\mathrm{d}x}=-w(x)&\qquad \frac{\mathrm{d}M}{\mathrm{d}x}=V\\[2ex]
+    \Delta V = \int{-w(x)\mathrm{d}x}&\qquad \Delta M=\int{V\mathrm{d}x}
+\end{aligned}
+$$
+
+### Shear Diagram
+
+<div align = center><img src = "./assets/Ch_4_figure_7.png"></div>
+<div align =center><img src = "./assets/Ch_4_figure_8.png"></div>
+
+
