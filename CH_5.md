@@ -99,7 +99,7 @@ where S is known as the **section moduli** of the cross-sectional area
 #### Rectangular Cross Section
 
 $$
-I = \frac{bh^3}{12}\qquad S=\frac{bh^3}{6}
+I = \frac{bh^3}{12}\qquad S=\frac{bh^2}{6}
 $$
 
 #### Circular Cross Section
