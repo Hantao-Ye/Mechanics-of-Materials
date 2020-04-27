@@ -5,10 +5,12 @@
 ## 2.1 Hooke's Law
 
 $$
-\sigma=E\varepsilon
+\sigma=E\varepsilon=\frac{E\delta}{L}=\frac{P}{A}
 $$
 
 - _E_: the modulus of elasticity of Youngs' modulus, which has the stress units
+- *$\sigma$*: stress
+- *$\varepsilon$*: strain, which equals the ratio of the increasing length of the length
 
 ## 2.2 Poison Ratio
 
@@ -17,8 +19,8 @@ $$
 $$
 
 - $\nu$: Poison Ratio
-- $\varepsilon$: axial strain
-- $\varepsilon'$: lateral strain
+- $\varepsilon$: axial strain(轴向拉伸)
+- $\varepsilon'$: lateral strain(侧向拉伸)
 
 ## 2.3 Shear Stress
 
@@ -35,7 +37,7 @@ $$
 - $F_b$: bearing force
 - $A_b$: bearing area
 
-Average Shear Stress at Section
+### Average Shear Stress at Section
 
 $$
 \tau_{aver}=\frac{V}{A}
