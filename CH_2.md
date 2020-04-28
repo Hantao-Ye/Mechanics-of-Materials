@@ -133,7 +133,7 @@ $$
 |    Sign     |   Forces    | Displacement |
 | :---------: | :---------: | :----------: |
 | Positive(+) |   Tension   |  Elongation  |
-| Negative(-) | Compression | COntraction  |
+| Negative(-) | Compression | Contraction  |
 
 ### Use Method of Sections
 
@@ -150,7 +150,6 @@ $$
 - $A(x)$: x-sectional area of the bar, expressed as a function of x
 
 **Constant Load and x-Sectional Area**
-
 $$
 \delta=\frac{L}{EA}P
 $$
