@@ -123,7 +123,7 @@ using the torsion formula
 
 $$
 G\rho\theta=\frac{\rho}{r}\frac{Tr}{I_P}\\[2ex]
-\Rightarrow\theta=\sum{\frac{T}{GI_P}}=\frac{\mathrm{d}\phi}{\mathrm{d}x}
+\Rightarrow\theta=\sum{\frac{TL}{GI_P}}=\frac{\mathrm{d}\phi}{\mathrm{d}x}
 $$
 
 for a bar in **pure torsion**, the total angle of the twist $\phi$, equal to the rate of twist time the length of the bar
