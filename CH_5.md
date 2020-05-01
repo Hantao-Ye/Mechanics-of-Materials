@@ -39,14 +39,14 @@ $$
 $$
 \begin{aligned}
     \overset{\Large{\frown}}{ef}=(\rho-y)\mathrm{d}\theta &\qquad\mathrm{d}x=\rho \mathrm{d}\theta\\[2ex]
-    \epsilon=\frac{\overset{\Large{\frown}}{ef}-\mathrm{d}x}{\mathrm{d}x}&=-\frac{y}{\rho}
+    \varepsilon=\frac{\overset{\Large{\frown}}{ef}-\mathrm{d}x}{\mathrm{d}x}&=-\frac{y}{\rho}
 \end{aligned}
 $$
 
 ## 5.4 Normal Stress in Beams
 
 $$
-\sigma_x=E\epsilon_x=\frac{Ey}{\rho}=-E\kappa y
+\sigma_x=E\varepsilon_x=\frac{Ey}{\rho}=-E\kappa y
 $$
 
 ### Location of Neutral Axis
@@ -81,6 +81,10 @@ $$
     <img src = "./assets/Ch_5_figure_7.png">
 </div>
 
+> For positive moment: $\sigma_c = -\frac{M\bar{y}}{I}$ $\sigma_t = - \frac{M(\bar{y}-h)}{I}$
+> For negative moment: $\sigma_c = -\frac{M(\bar{y}-h)}{I}$ $\sigma_t = - \frac{M\bar{y}}{I}$
+>
+
 ### Maximum Stresses at a Cross Section
 
 the *maximum tensile* and *compressive bending stresses* acting at any given cross section occur at points **located farthest from the neutral axis**
@@ -106,4 +110,21 @@ $$
 
 $$
 I=\frac{\pi d^4}{64}\qquad S=\frac{\pi d^3}{32}
+$$
+
+## 5.8 Shear Stresses in Rectangular Beams
+
+### Shear Formula
+
+$$
+\tau = \frac{VQ}{I_zb}
+$$
+
+- V: internal resultant shear force
+- I: moment of inertia of entire x-sectional area computed about the neutral axis
+- b: width of the member's x-sectional area, measured at the pt where $\tau$ is to be determined
+- Q: $\frac{1}{2}b(\frac{h^2}{4}-y^2)$, where y is measured from neutral axis
+
+$$
+\tau = \frac{6V}{bh^3}(\frac{h^2}{4}-y^2)
 $$
