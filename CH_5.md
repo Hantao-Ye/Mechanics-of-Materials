@@ -123,7 +123,7 @@ $$
 - V: internal resultant shear force
 - I: moment of inertia of entire x-sectional area computed about the neutral axis
 - b: width of the member's x-sectional area, measured at the pt where $\tau$ is to be determined
-- Q: $\frac{1}{2}b(\frac{h^2}{4}-y^2)$, where y is measured from neutral axis
+- **Q: $\frac{1}{2}b(\frac{h^2}{4}-y^2)$, where y is measured from neutral axis**
 
 $$
 \tau = \frac{6V}{bh^3}(\frac{h^2}{4}-y^2)
